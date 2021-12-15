@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1597587061648478968
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1597587061648478974}
+  - component: {fileID: 1597587061648478975}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1597587061648478974
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1597587061648478968}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 356.3352, y: 206.58435, z: -1797.8113}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1597587061648478975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1597587061648478968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28849cdd971a32f41bb327002d489475, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: MenuTheme
+    audioClip: {fileID: 8300000, guid: 1343edc29d9092c4796158d31b92af36, type: 3}
+    volume: 0.1
+    pitch: 1
+    panStereo: 0
+    loop: 1
+    audioSource: {fileID: 0}
+  - name: Click
+    audioClip: {fileID: 8300000, guid: f73a4992f15284e48b455fe279305325, type: 3}
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    loop: 0
+    audioSource: {fileID: 0}
+  - name: Theme
+    audioClip: {fileID: 8300000, guid: 6936c861c63de22498b1ed00170fc9af, type: 3}
+    volume: 0.1
+    pitch: 1
+    panStereo: 0
+    loop: 1
+    audioSource: {fileID: 0}
+  - name: Step
+    audioClip: {fileID: 8300000, guid: b6cdb6e33932f624ea9c848830d8c953, type: 3}
+    volume: 1
+    pitch: 1
+    panStereo: -0.4
+    loop: 0
+    audioSource: {fileID: 0}
+  - name: Jump
+    audioClip: {fileID: 8300000, guid: 4133a941fe7c21f458ed8f9f2bcc0c14, type: 3}
+    volume: 0.2
+    pitch: 1
+    panStereo: 0
+    loop: 0
+    audioSource: {fileID: 0}
+  - name: CompleteLevel
+    audioClip: {fileID: 8300000, guid: c3a0e1b498c8cb043bb88aabb791f259, type: 3}
+    volume: 0.7
+    pitch: 1
+    panStereo: 0
+    loop: 0
+    audioSource: {fileID: 0}
+  - name: LoseLevel
+    audioClip: {fileID: 8300000, guid: 99d510fb4279c614097a8c31d0908c3d, type: 3}
+    volume: 0.7
+    pitch: 1
+    panStereo: 0
+    loop: 0
+    audioSource: {fileID: 0}
+  - name: Connect
+    audioClip: {fileID: 8300000, guid: 94e23987b817e924490077ec8db42569, type: 3}
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    loop: 0
+    audioSource: {fileID: 0}
+  - name: Creak
+    audioClip: {fileID: 8300000, guid: dc1d25bf26cce8349bc1cd13f9801d27, type: 3}
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    loop: 0
+    audioSource: {fileID: 0}
+  - name: Door
+    audioClip: {fileID: 8300000, guid: a3fb936f6ed171b43a48cb6303c2c34e, type: 3}
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    loop: 0
+    audioSource: {fileID: 0}
+  - name: Type1
+    audioClip: {fileID: 8300000, guid: ede096adddfb23048b0cd2e566b66f36, type: 3}
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    loop: 0
+    audioSource: {fileID: 0}
+  - name: Type2
+    audioClip: {fileID: 8300000, guid: 24e501906d3c1de4e953c137c1b08886, type: 3}
+    volume: 1
+    pitch: 1
+    panStereo: 0
+    loop: 0
+    audioSource: {fileID: 0}
+  - name: Trash
+    audioClip: {fileID: 8300000, guid: 001916e522b4b5440abc5fc23fb9e56e, type: 3}
+    volume: 0.8
+    pitch: 1
+    panStereo: 0
+    loop: 0
+    audioSource: {fileID: 0}

@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: df343573c0354244eacf0426e0989242
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5538110707206834802
+    second: PlaceHolders_Part2_0
+  - first:
+      213: 3717125503477704995
+    second: PlaceHolders_Part2_1
+  - first:
+      213: 9217189240233232949
+    second: PlaceHolders_Part2_2
+  - first:
+      213: 8960841476111642936
+    second: PlaceHolders_Part2_3
+  - first:
+      213: 4302429353112424202
+    second: PlaceHolders_Part2_4
+  - first:
+      213: 3723364067756348035
+    second: Middle_Square_Sprite
+  - first:
+      213: -8342691900423342028
+    second: End_Square_Sprite
+  - first:
+      213: 2964067404929796036
+    second: PlaceHolders_Part2_7
+  - first:
+      213: 6215336247298770535
+    second: PlaceHolders_Part2_8
+  - first:
+      213: -1911416127257516434
+    second: PlaceHolders_Part2_9
+  - first:
+      213: -5158649079616920578
+    second: PlaceHolders_Part2_10
+  - first:
+      213: 8359378012844908355
+    second: PlaceHolders_Part2_11
+  - first:
+      213: -2247232405326795830
+    second: Beginning_Square_Sprite
+  - first:
+      213: -8904579761740737041
+    second: Run_Button_Sprite
+  - first:
+      213: -9047783827636863790
+    second: PlaceHolders_Part2_14
+  - first:
+      213: 6993124583026957234
+    second: PlaceHolders_Part2_15
+  - first:
+      213: -5315788608464112933
+    second: PlaceHolders_Part2_16
+  - first:
+      213: -1336892398957017525
+    second: PlaceHolders_Part2_17
+  - first:
+      213: 360091746010063993
+    second: PlaceHolders_Part2_18
+  - first:
+      213: -1912588560921273687
+    second: Beginning_Block_Sprite
+  - first:
+      213: -1499687020990471040
+    second: PlaceHolders_Part2_20
+  - first:
+      213: -6616272276137783692
+    second: End_Block_Sprite
+  - first:
+      213: -1329692129376852984
+    second: PlaceHolders_Part2_22
+  - first:
+      213: -995032590197100883
+    second: ChewingDog_Sprite_Colored
+  - first:
+      213: -5650967855931568912
+    second: Wlak_Block_Sprite
+  - first:
+      213: -701703234656226433
+    second: Circle_Block_Sprite
+  - first:
+      213: 5691334484230963508
+    second: PlaceHolders_Part2_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2896
+        width: 320
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ac9d598525bdc40800000000000000
+      internalID: 5538110707206834802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2896
+        width: 238
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329655483f1e59330800000000000000
+      internalID: 3717125503477704995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_2
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2894
+        width: 283
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a87ab77c80aef70800000000000000
+      internalID: 9217189240233232949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_3
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2887
+        width: 238
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b83098dd4b5c70800000000000000
+      internalID: 8960841476111642936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Middle_Square_Sprite
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 3041
+        width: 396
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382121474eb0ca330800000000000000
+      internalID: 3723364067756348035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Square_Sprite
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 3045
+        width: 396
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438fcb40bedc83c80800000000000000
+      internalID: -8342691900423342028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_11
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 2923
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fd4d6430a720470800000000000000
+      internalID: 8359378012844908355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beginning_Square_Sprite
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 2637
+        width: 395
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbefb0a80a30d0e0800000000000000
+      internalID: -2247232405326795830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Button_Sprite
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 2647
+        width: 351
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe59f4b92e39c6480800000000000000
+      internalID: -8904579761740737041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2711
+        width: 371
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc3e25cb80df6280800000000000000
+      internalID: -9047783827636863790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2639
+        width: 201
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb9f51d1c19c0160800000000000000
+      internalID: 6993124583026957234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_16
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2649
+        width: 169
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2bd63cc668a36b0800000000000000
+      internalID: -5315788608464112933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1736
+        width: 378
+        height: 867
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b464f314277627de0800000000000000
+      internalID: -1336892398957017525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_18
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2163
+        width: 657
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974ea7ff88d4ff400800000000000000
+      internalID: 360091746010063993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beginning_Block_Sprite
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2238
+        width: 600
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aadfc056de1575e0800000000000000
+      internalID: -1912588560921273687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceHolders_Part2_20
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1853
+        width: 336
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084699f999a003be0800000000000000
+      internalID: -1499687020990471040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Block_Sprite
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1932
+        width: 604
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eca8b5b674e24a0800000000000000
+      internalID: -6616272276137783692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChewingDog_Sprite_Colored
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1116
+        width: 1090
+        height: 589
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6d51912fe032f0800000000000000
+      internalID: -995032590197100883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wlak_Block_Sprite
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1560
+        width: 578
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc4c06dcaab391b0800000000000000
+      internalID: -5650967855931568912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Block_Sprite
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1342
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b29830ac0346f0800000000000000
+      internalID: -701703234656226433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
